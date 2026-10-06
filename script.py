@@ -3,4 +3,7 @@ class Dog:
         print("Woof!")
 
 
-dog = Dog()    
+dog1 = Dog()
+dog2 = Dog()
+dog1.bark()
+dog2.bark()
